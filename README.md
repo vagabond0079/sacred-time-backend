@@ -1,2 +1,2 @@
-# sacred-time-backend
-Catholic Liturgical Calendar API
+# dragon-hoard
+Basic to-do app using React, Node, Express, and MongoDB
